@@ -1,2 +1,3 @@
-# fuckthisshit.solutions
-Fuck this shit
+When nothing else works...
+
+# [fuckthisshit.solutions](https://fuckthisshit.solutions)
