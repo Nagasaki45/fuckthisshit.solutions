@@ -1,3 +1,3 @@
 When nothing else works...
 
-# [fuckthisshit.solutions](https://fuckthisshit.solutions)
+# [fuckthisshit.solutions](https://nagasaki45.github.io/fuckthisshit.solutions/)
